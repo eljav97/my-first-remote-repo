@@ -1,2 +1,2 @@
-# needed parentheses to execute print (oops)
-print("Hello, World!")
+name = "Richard"
+print(f"Hello, {name}!")
